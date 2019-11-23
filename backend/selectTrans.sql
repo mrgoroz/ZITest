@@ -1,0 +1,1 @@
+SELECT * FROM shop_cart ORDER BY(id)
